@@ -1,0 +1,14 @@
+.navbar {
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+}
+.title {
+    font-size:45px;
+    font-weight:bold;
+}
+.head-links ul li{
+    list-style: none;
+    float: left;
+    padding-left:25px;
+}
